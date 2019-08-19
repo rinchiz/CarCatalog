@@ -24,6 +24,7 @@ Ext.define('CarCatalog.model.UsersModel', {
     }, {
         name: 'married',
         type: 'bool'
-    }]
+    }
+    ]
 });
 
